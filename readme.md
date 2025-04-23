@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhanisingh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Electronics engineer from India</h3>
 
-- 🌱 I’m currently learning **Btech Extc**
+- 🌱 I’m currently learning **B.Tech EXTC**
 
 - 📫 How to reach me **suhanichandel29@gmail.com**
 
